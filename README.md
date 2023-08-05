@@ -25,7 +25,7 @@ https://feodotracker.abuse.ch/
 <h2>Program walk-through:</h2>
 
 <p align="center">
- <b> Check out Part 1 Here: </b><br/>
+ <b> Check out Part 1 Here: https://github.com/kevinnyeo/MicrosoftWindowsDefenderFirewall</b><br/>
 <p align="center">
  <b>As seen in Part 1, Windows Defender Firewall rules requires you to paste in a list of IP addresses to block. This can be automated via running a Python script.</b>  <br/>
  <img src="https://i.imgur.com/bTv8qdA.png" height="80%" width="80%" />
