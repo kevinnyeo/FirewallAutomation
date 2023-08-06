@@ -15,12 +15,16 @@
 
 <h2>Environments Used: </h2>
 
-- <b>Windows 11</b> (22H2)
+- <b>Windows 10</b> (22H2)
 
 <h2>Resources Used: </h2>
 https://feodotracker.abuse.ch/
 
-
+<h2>Demo video:</h2>
+  
+ https://github.com/kevinnyeo/FirewallAutomation/assets/141112043/0d0908be-c519-41f2-83fe-13bb096f1e4c
+ 
+ https://github.com/kevinnyeo/FirewallAutomation/assets/141112043/825f8a31-4d73-4fbb-9445-8accb3006877
 
 <h2>Program walk-through:</h2>
 
