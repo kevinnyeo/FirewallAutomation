@@ -3,7 +3,7 @@
 <h2>Description:</h2>
 
 - <b>Automate updating of Windows Firewall rules via Python</b> 
-- <b>List of IP addresses will be obtained via a csv file</b>
+- <b>List of malicious IP addresses will be obtained via a csv file</b>
 
 
 <h2>Languages and Utilities Used:</h2>
@@ -11,7 +11,7 @@
 - <b>Microsoft Windows Defender Firewall</b>
 - <b>Python via Visual Code Studio</b>
 - <b>Windows PowerShell
-
+- <b>Bash
 
 <h2>Environments Used: </h2>
 
