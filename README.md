@@ -1,4 +1,4 @@
-<h1>⚙️ Microsoft Windows Firewall Automation Rules</h1>
+<h1>⚙️🔧🐍 Microsoft Windows Firewall Automation Rules</h1>
 
 <h2>Description:</h2>
 
@@ -11,7 +11,7 @@
 - <b>Microsoft Windows Defender Firewall</b>
 - <b>Python via Visual Code Studio</b>
 - <b>Windows PowerShell
-- <b>Bash
+- <b>GNU Bash
 
 <h2>Environments Used: </h2>
 
