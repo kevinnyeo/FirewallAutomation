@@ -81,10 +81,21 @@ https://feodotracker.abuse.ch/
   <img src="https://i.imgur.com/zVCJTyd.png" height="80%" width="80%" />
 
 <p align="center"> 
-  List of malicious IP addresses has been added to block list <br/>
+  List of malicious IP addresses has been added to the block list <br/>
   <img src="https://i.imgur.com/i5f2q0y.png" height="80%" width="80%" />
 
-
+<p align="center"> 
+ Update 1: <br/>
+ 
+ After reviewing the script, I realised that the script could be vulnerable to attacks if the server hosting the CSV file source (abuse.ch) gets <br/>
+ compromised and an attacker injects malicious PowerShell commands into the CSV file. This would allow the attacker to execute arbitrary code on 
+ my PC when you I the script.<br/> 
+ <br/>
+ To mitigate some risks, I added a regular expression (regex) pattern to validate that the data extracted from the CSV file is indeed an IP address. 
+ This can provide an additional layer of validation to ensure that only legitimate IP addresses are processed.
+ <br/>
+<p align="center">  
+ <img src="https://i.imgur.com/dpC9lzU.png" height="80%" width="80%" />
 
  
   
